@@ -1,5 +1,0 @@
-flask
-flask-socketio
-gevent
-requests
-gunicorn
